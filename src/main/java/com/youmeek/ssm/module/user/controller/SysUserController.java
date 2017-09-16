@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.Resource;
 import java.util.Date;
-/**/
+
 @Controller
 @RequestMapping("/sysUserController")
 public class SysUserController {
